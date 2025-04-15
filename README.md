@@ -51,3 +51,6 @@ pip install pillow numpy
 ```
 
 ## ScreenShots
+![1](https://github.com/user-attachments/assets/0a40fa39-7acf-4991-abe6-4e28c5bb937b)
+![2](https://github.com/user-attachments/assets/7d124fa5-55f8-4524-ba05-7e4ceb1b5ff1)
+
